@@ -1,8 +1,12 @@
 REST API Learning Project with Node.js and EJS This project demonstrates a simple REST API with a Node.js backend and an EJS-based frontend. Designed to help developers explore and learn how RESTful APIs work, it allows users to send API requests and view responses in a straightforward and interactive way.
 
-Project Overview The project includes:
+Project Overview 
+The project includes:
 
-Node.js Backend: Implements RESTful API endpoints for various operations. EJS Frontend: Simple, templated HTML files to interact with the backend. API Requests: Allows users to make GET, POST, PUT, and DELETE requests, with responses rendered on the frontend. Features User-friendly Frontend: EJS templates provide a structured UI to visualize API responses. RESTful Endpoints: The project contains endpoints for basic CRUD operations. Modular Codebase: Organized code structure to separate concerns and make it easy to expand. Getting Started Prerequisites Node.js (version >= 14) NPM (comes with Node.js) Installation Clone the repository:
+Node.js Backend: Implements RESTful API endpoints for various operations. 
+EJS Frontend: Simple, templated HTML files to interact with the backend. API Requests: Allows users to make GET, POST, PUT, and DELETE requests, with responses rendered on the frontend. Features User-friendly Frontend: EJS templates provide a structured UI to visualize API responses. RESTful Endpoints: The project contains endpoints for basic CRUD operations. 
+Modular Codebase: Organized code structure to separate concerns and make it easy to expand. 
+Getting Started Prerequisites Node.js (version >= 14) NPM (comes with Node.js) Installation Clone the repository:
 
 git clone https://github.com/PRIYANKADHINAKAR2005/Secrets Navigate to the project folder:
 
